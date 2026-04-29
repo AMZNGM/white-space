@@ -2,8 +2,6 @@
 
 # Just white space for trying new ideas
 
-[Live Here](https://urbnlanes.vercel.app/)
-
 </div>
 
 ```bash
